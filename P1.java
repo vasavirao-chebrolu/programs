@@ -4,5 +4,6 @@ class P1{
 		int b=20;
 		int sum=a+b;
 		System.out.println("the output is" + sum);
+		System.out.print("the desired output");
 	}
 }
